@@ -14,9 +14,7 @@ Bu proje, <b>Quasar Framework (Vue 3)</b> ile hazırlanmış modern bir frontend
 
 ## 🖼️ Ekran Görüntüsü
 
-- [Web Sitesi](https://github.com/kaankaltakkiran/quasar_php_crud_api/blob/main/example_image.png)
-
----
+## ![Ubuntu Sistem](./example_image.png)
 
 ## 🧱 Kullanılan Teknolojiler
 
