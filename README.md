@@ -14,9 +14,7 @@ Bu proje, <b>Quasar Framework (Vue 3)</b> ile hazırlanmış modern bir frontend
 
 ## 🖼️ Ekran Görüntüsü
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/25279263/273420013-2e2e2e2e-2e2e-2e2e-2e2e-2e2e2e2e2e2e.png" width="600" alt="Kullanıcı Yönetimi Ekranı" />
-</p>
+- [Web Sitesi](https://github.com/kaankaltakkiran/Linux_notlarim/tree/main/ubuntu_kurulum_notlarim/script_notlari)
 
 ---
 
