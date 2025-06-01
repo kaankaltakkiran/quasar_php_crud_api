@@ -1,0 +1,27 @@
+# Node
+node_modules/
+
+# Quasar
+.quasar/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env
+.env
+.env.*
+
+# PHP
+*.log
+vendor/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+
+# OS
+Thumbs.db 
